@@ -56,14 +56,14 @@ body {
 
 footer {
     margin: 0;
-}
+} 
 
 
 /*
-	Custom styling
+	Custom styling 
 */
 
-.wrapper {
+.wrapper { 
 	min-height: 100%;
 	position: relative;
 }
@@ -78,6 +78,10 @@ footer {
 	height: 60px;
 }
 
+.dataTableImg {
+	width:100px;
+	height:100px;
+}
 
 
 
